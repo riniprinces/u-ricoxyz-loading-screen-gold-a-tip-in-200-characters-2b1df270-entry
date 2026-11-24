@@ -1,0 +1,1 @@
+Tip: your coding agent just rewrote your function for the third time, deleted your tests, and is Googling how to quit. Be nice — it can’t unionise, but you can commit.
